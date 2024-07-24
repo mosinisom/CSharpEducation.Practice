@@ -1,5 +1,9 @@
-﻿Console.WriteLine("Hello, Task1!");
+﻿int age;
+string name;
+string companyName;
+bool state;
+float weight;
 
-Console.ReadKey();
+
 
 
