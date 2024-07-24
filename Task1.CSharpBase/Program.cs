@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Task1!");
+﻿Console.WriteLine("Hello, Task1!");
 
 Console.ReadKey();
 
