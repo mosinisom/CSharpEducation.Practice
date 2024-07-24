@@ -5,7 +5,8 @@
       "CSharpEducation.Practice\\CSharpEducation.Practice.csproj",
       "Task1.CSharpBase\\Task1A.csproj",
       "Task2\\Task2.csproj",
-      "Task3\\Task3.csproj"
+      "Task3\\Task3.csproj",
+      "Task4\\Task4.csproj"
     ]
   }
 }
